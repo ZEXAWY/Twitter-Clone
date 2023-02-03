@@ -1,0 +1,15 @@
+{
+  "name": "twitter-clone",
+  "version": "1.0.0",
+  "description": "This project is about creating or simulating a twitter page. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx tailwindcss -i ./TailwindStyles/Styles.css -o ./CSS/Styles.css --watch"
+  },
+  "author": "Ahmed Mohamed",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
